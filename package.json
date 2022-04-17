@@ -1,31 +1,76 @@
 {
-    "name": "dark-red-theme",
-    "displayName": "Dark Red Theme",
-    "description": "Dark red theme for vscode with transparency build support",
-    "version": "1.0.6",
-    "engines": {
-        "vscode": "^1.34.0"
-    },
-    "publisher": "rogeraabbccdd",
-    "categories": [
-        "Themes"
-    ],
-    "icon": "icon.png",
-    "homepage": "https://github.com/rogeraabbccdd/vscode-dark-red/",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/rogeraabbccdd/vscode-dark-red/"
-    },
-    "bugs": {
-        "url": "https://github.com/rogeraabbccdd/vscode-dark-red/issues"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dark Red",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark Red-color-theme.json"
-            }
-        ]
-    }
+	"name": "dark-colored-theme",
+	"displayName": "Dark Colored Theme",
+	"description": "Dark colored theme for vscode with transparency build support",
+	"version": "1.0.7",
+	"engines": {
+		"vscode": "^1.34.0"
+	},
+	"publisher": "smith.chayse",
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/Chayse-Smith/vscode-dark-colored/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Chayse-Smith/vscode-dark-colored/"
+	},
+	"bugs": {
+		"url": "https://github.com/Chayse-Smith/vscode-dark-colored/issues"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark Red",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Red-color-theme.json"
+			},
+			{
+				"label": "Dark Yellow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Yellow-color-theme.json"
+			},
+			{
+				"label": "Dark Orange",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Orange-color-theme.json"
+			},
+			{
+				"label": "Dark Green",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Green-color-theme.json"
+			},
+			{
+				"label": "Dark Mint",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Mint-color-theme.json"
+			},
+			{
+				"label": "Dark Cyan",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Cyan-color-theme.json"
+			},
+			{
+				"label": "Dark Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Blue-color-theme.json"
+			},
+			{
+				"label": "Dark Purple",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Purple-color-theme.json"
+			},
+			{
+				"label": "Dark Magenta",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Magenta-color-theme.json"
+			},
+			{
+				"label": "Dark Grey",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Dark Grey-color-theme.json"
+			}
+		]
+	}
 }
